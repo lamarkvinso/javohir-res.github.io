@@ -1,2 +1,2 @@
-# javohir-res.github.io
-my first site
+# Javokhir Mamatkulov
+my practise resume site
